@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\lecture_8\Project_009\bin\Debug\net6.0\Project_009.exe
+C:\Users\acer\Desktop\lecture_8\Project_009\bin\Debug\net6.0\Project_009.deps.json
+C:\Users\acer\Desktop\lecture_8\Project_009\bin\Debug\net6.0\Project_009.runtimeconfig.json
+C:\Users\acer\Desktop\lecture_8\Project_009\bin\Debug\net6.0\Project_009.dll
+C:\Users\acer\Desktop\lecture_8\Project_009\bin\Debug\net6.0\Project_009.pdb
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.AssemblyInfo.cs
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.dll
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\refint\Project_009.dll
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.pdb
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\Project_009.genruntimeconfig.cache
+C:\Users\acer\Desktop\lecture_8\Project_009\obj\Debug\net6.0\ref\Project_009.dll
